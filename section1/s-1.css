@@ -1,0 +1,37 @@
+.s-1{
+    width: 1146px;
+    height: 425px;
+    margin-top:130px;
+    border: 2px solid red;
+
+}
+
+.s-1__menu{
+    width: 1042px;
+    height: 34px;
+    display: flex;
+    margin-left:52px;
+    justify-content: space-between;
+    list-style: none;
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    text-transform: capitalize;
+    color: #2F2F2F;
+    opacity: 0.8;
+}
+
+.s-1>img{
+     margin-left: 279px;
+     margin-top: 41px;
+}
+
+.s-1__cards{
+    display: flex;
+    justify-content: space-between;
+    width: 264px;
+    gap: 30px;
+    height: 306px;
+}
